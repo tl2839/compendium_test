@@ -1,0 +1,18 @@
+---
+title:
+output:
+  html_document: default
+  includes:
+       in_header: AnalyticsTag.html
+---
+```{r lib, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+library(js)
+library(knitr)
+```
+<html>
+
+<body>
+This is a test!
+</body>
+
+</html> 
